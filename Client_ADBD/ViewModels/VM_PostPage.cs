@@ -142,7 +142,7 @@ namespace Client_ADBD.ViewModels
 
            
 
-           if((new Post_()).GetPostUser(_auctionNumber) == CurrentUser.User._username||_auctionEndTime<DateTime.Now||_auctionStartTime>DateTime.Now)
+           if((new Post_()).GetPostUser(_auctionNumber) == CurrentUser.User._username||Admin==true||_auctionEndTime<DateTime.Now||_auctionStartTime>DateTime.Now)
             {
                 CustomerVisibility= Visibility.Hidden;
                

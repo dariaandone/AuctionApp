@@ -158,7 +158,12 @@
 
                     <!-- Calea imaginii -->
                     <TextBlock Text="Cale imagine:" FontSize="16" FontWeight="Bold" Foreground="#333" Margin="0,0,0,10"/>
-                    <TextBox x:Name="ImagePathTextBox2" Width="440" Height="35" Margin="0,0,0,0" FontSize="14" VerticalContentAlignment="Center" BorderBrush="#ccc" BorderThickness="1" HorizontalAlignment="Left" Text="{Binding ImagePath,UpdateSourceTrigger=PropertyChanged}"/>
+                    <StackPanel Orientation="Horizontal">
+                        <Button Content="Alege imagine" Width="100" Height="35" Margin="0,0,20,0" HorizontalAlignment="Left" Command="{Binding SelectImageCommand}" Background = "#007bff" BorderThickness="0" FontWeight="Bold" Foreground="White"/>
+                        <TextBox x:Name="ImagePathTextBox" Width="440" Height="35" Margin="0,0,0,0" FontSize="14" VerticalContentAlignment="Center" BorderBrush="#ccc" BorderThickness="1" HorizontalAlignment="Left" Text="{Binding ImagePath, UpdateSourceTrigger=PropertyChanged}"/>
+                        <TextBlock Text="{Binding ImagePathError, UpdateSourceTrigger=PropertyChanged}" Foreground="Red" FontSize="12" Margin="0,0,0,0" />
+                    </StackPanel>
+                   
                     <TextBlock Text="{Binding ImagePathError, UpdateSourceTrigger=PropertyChanged}" Foreground="Red" FontSize="12" Margin="0,0,0,0" />
 
                     <TextBlock Text="Locație :" FontSize="16" FontWeight="Bold" Foreground="#333" Margin="0,0,0,10"/>

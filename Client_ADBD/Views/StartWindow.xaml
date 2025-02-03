@@ -10,10 +10,34 @@
         WindowStyle="None" AllowsTransparency="True">
     <Grid x:Name="st_gridWindow">
         <Grid.Background>
-            <ImageBrush ImageSource="C:\Users\laris\Desktop\EntityBD\AuctionApp\Client_ADBD\photos\start.jpeg" Stretch="UniformToFill"/>
+            <ImageBrush ImageSource="C:\Users\laris\Desktop\EntityBD\AuctionApp\Client_ADBD\photos\start2.png" Stretch="UniformToFill"/>
         </Grid.Background>
+        <!--<Button Content="Get started" HorizontalAlignment="Left" Margin="320,298,0,0" VerticalAlignment="Top" Height="42" Width="112" Command="{Binding NavigateCommand}"/>-->
+        <Button Content="Get started" HorizontalAlignment="Left" VerticalAlignment="Top" Height="50" Width="200" 
+                Command="{Binding NavigateCommand}"
+                Margin="284,283,0,0" 
+                FontSize="16" FontWeight="Bold" 
+                Background="#66FFFFFF" Foreground="#FFFFFF" BorderBrush="Transparent" BorderThickness="1" 
+               >
+            <Button.Style>
+                <Style TargetType="Button">
+                    <Setter Property="Cursor" Value="Hand"/>
+                    <Setter Property="FontFamily" Value="Segoe UI"/>
+                    <Setter Property="Padding" Value="10,5"/>
+                    <Setter Property="Effect">
+                        <Setter.Value>
+                            <DropShadowEffect Color="Black" Direction="270" ShadowDepth="3" BlurRadius="8"/>
+                        </Setter.Value>
+                    </Setter>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding IsMouseOver, RelativeSource={RelativeSource Self}}" Value="True">
+                            <Setter Property="Background" Value="#99FFFFFF"/>
+                            <Setter Property="BorderBrush" Value="#AAFFFFFF"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
 
-        <Label x:Name="st_lbWelcom" Content="WELCOME" HorizontalAlignment="Center" Margin="0,143,0,0" VerticalAlignment="Top" Height="50" Width="162" FontWeight="Bold" FontSize="30"/>
-        <Button Content="Get started" HorizontalAlignment="Center" Margin="0,225,0,0" VerticalAlignment="Top" Height="42" Width="112" Command="{Binding NavigateCommand}"/>
     </Grid>
 </Window>

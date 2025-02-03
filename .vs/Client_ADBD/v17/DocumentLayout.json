@@ -3,63 +3,101 @@
   "WorkspaceRootPath": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\addauctionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\addauctionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|c:\\users\\laris\\desktop\\entitybd\\auctionapp\\client_adbd\\viewmodels\\vm_addauctionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\viewmodels\\vm_addauctionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\startwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\startwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\viewmodels\\vm_postpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\viewmodels\\vm_postpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\startwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\startwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\viewmodels\\vm_addauctionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\viewmodels\\vm_addauctionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\adminlicitatiipage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\adminlicitatiipage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\models\\book_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\models\\book_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|c:\\users\\laris\\desktop\\entitybd\\auctionapp\\client_adbd\\obj\\debug\\views\\startwindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\obj\\debug\\views\\startwindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laris\\AppData\\Local\\Temp\\0xpt3w3e..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_470P72I_SQLEXPRESS/AuctionApp/True/SqlTable/dbo.Book_condition.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|c:\\users\\laris\\desktop\\entitybd\\auctionapp\\client_adbd\\viewmodels\\vm_modifypostpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\viewmodels\\vm_modifypostpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\viewmodels\\vm_addpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\viewmodels\\vm_addpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\modifypostpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\modifypostpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\addpostpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\addpostpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\postpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\postpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\addpostpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\addpostpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|c:\\users\\laris\\desktop\\entitybd\\auctionapp\\client_adbd\\viewmodels\\vm_modifyauctionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\viewmodels\\vm_modifyauctionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|c:\\users\\laris\\desktop\\entitybd\\auctionapp\\client_adbd\\views\\modifyauctionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\modifyauctionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\viewmodels\\vm_auctionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\viewmodels\\vm_auctionpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|c:\\users\\laris\\desktop\\entitybd\\auctionapp\\client_adbd\\views\\addauctionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\addauctionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\adminlicitatiipage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\adminlicitatiipage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\auctionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\auctionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|c:\\users\\laris\\desktop\\entitybd\\auctionapp\\client_adbd\\viewmodels\\vm_adminviewuserprofilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\viewmodels\\vm_adminviewuserprofilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\viewmodels\\vm_adminviewuserprofilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|c:\\users\\laris\\desktop\\entitybd\\auctionapp\\client_adbd\\views\\usersdetailespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\usersdetailespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\usersdetailespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|c:\\users\\laris\\desktop\\entitybd\\auctionapp\\client_adbd\\models\\auction_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\models\\auction_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\models\\auction_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|c:\\users\\laris\\desktop\\entitybd\\auctionapp\\client_adbd\\views\\statisticspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\statisticspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\statisticspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|c:\\users\\laris\\desktop\\entitybd\\auctionapp\\client_adbd\\views\\statisticsadminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\statisticsadminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\statisticsadminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|c:\\users\\laris\\desktop\\entitybd\\auctionapp\\client_adbd\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|c:\\users\\laris\\desktop\\entitybd\\auctionapp\\client_adbd\\views\\mainadminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\mainadminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\mainadminpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -67,11 +105,11 @@
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|c:\\users\\laris\\desktop\\entitybd\\auctionapp\\client_adbd\\helpers\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\helpers\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\helpers\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|c:\\users\\laris\\desktop\\entitybd\\auctionapp\\client_adbd\\models\\post_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\models\\post_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\models\\post_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -79,7 +117,7 @@
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\viewmodels\\vm_postcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|c:\\users\\laris\\desktop\\entitybd\\auctionapp\\client_adbd\\views\\usercontrol\\postcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\usercontrol\\postcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\usercontrol\\postcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -87,16 +125,8 @@
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|c:\\users\\laris\\desktop\\entitybd\\auctionapp\\client_adbd\\views\\addpostpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\addpostpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\usercontrol\\bookcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\usercontrol\\bookcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\viewmodels\\vm_addpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\viewmodels\\vm_addpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\viewmodels\\vm_loginwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -121,10 +151,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\models\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\models\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\models\\book_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\models\\book_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -161,10 +187,6 @@
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\viewmodels\\vm_statisticsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\addpostpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\addpostpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\modifyauctionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\modifyauctionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -181,10 +203,6 @@
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\viewmodels\\vm_mainadminpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\postpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\postpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laris\\AppData\\Local\\Temp\\0uu0dhfd..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
@@ -193,10 +211,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laris\\AppData\\Local\\Temp\\l1rg15ld..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\modifypostpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\modifypostpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\usercontrol\\sculpturepostcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -316,6 +330,16 @@
     {
       "AbsoluteMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\client_adbd\\views\\modifypostpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{ED79B01C-04F4-41BC-855C-25738F9F8E0E}|Client_ADBD\\Client_ADBD.csproj|solutionrelative:client_adbd\\views\\modifypostpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\obj\\Debug\\Views\\StartWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Client_ADBD\\obj\\Debug\\Views\\StartWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laris\\AppData\\Local\\Temp\\0xpt3w3e..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\laris\\AppData\\Local\\Temp\\0xpt3w3e..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -325,7 +349,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 81,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -338,44 +362,42 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "VM_PostPage.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_PostPage.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_PostPage.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_PostPage.cs",
-              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_PostPage.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAADwvxMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T20:44:58.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "VM_AddAuctionPage.cs",
               "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AddAuctionPage.cs",
               "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_AddAuctionPage.cs",
               "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AddAuctionPage.cs",
               "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_AddAuctionPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAN0AAAAAAAAAAADgv+oAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T21:33:58.765Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddAuctionPage.xaml",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AddAuctionPage.xaml",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\AddAuctionPage.xaml",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AddAuctionPage.xaml",
-              "RelativeToolTip": "Client_ADBD\\Views\\AddAuctionPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-03T15:52:19.391Z",
+              "DocumentIndex": 1,
+              "Title": "VM_PostPage.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_PostPage.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_PostPage.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_PostPage.cs",
+              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_PostPage.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAiwJQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:44:58.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "dbo.Book_condition [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_470P72I_SQLEXPRESS/AuctionApp/True/SqlTable/dbo.Book_condition.sql",
+              "ToolTip": "dbo.Book_condition [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-03T23:14:00.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "StartWindow.xaml",
               "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\StartWindow.xaml",
               "RelativeDocumentMoniker": "Client_ADBD\\Views\\StartWindow.xaml",
@@ -387,347 +409,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UsersDetailesPage.xaml",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UsersDetailesPage.xaml",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UsersDetailesPage.xaml",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UsersDetailesPage.xaml",
-              "RelativeToolTip": "Client_ADBD\\Views\\UsersDetailesPage.xaml",
+              "DocumentIndex": 8,
+              "Title": "ModifyPostPage.xaml",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\ModifyPostPage.xaml",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\ModifyPostPage.xaml",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\ModifyPostPage.xaml",
+              "RelativeToolTip": "Client_ADBD\\Views\\ModifyPostPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-03T22:11:06.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Auction_.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Auction_.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\Models\\Auction_.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Auction_.cs",
-              "RelativeToolTip": "Client_ADBD\\Models\\Auction_.cs",
-              "ViewState": "AgIAALMAAAAAAAAAAIAwwM8AAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T22:12:49.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "StatisticsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\StatisticsPage.xaml",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\StatisticsPage.xaml",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\StatisticsPage.xaml",
-              "RelativeToolTip": "Client_ADBD\\Views\\StatisticsPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-03T22:11:03.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "StatisticsAdminPage.xaml",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\StatisticsAdminPage.xaml",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\StatisticsAdminPage.xaml",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\StatisticsAdminPage.xaml",
-              "RelativeToolTip": "Client_ADBD\\Views\\StatisticsAdminPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-03T22:11:01.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "VM_About.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_About.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_About.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_About.cs",
-              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_About.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA1wBIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:13:08.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AdminLicitatiiPage.xaml",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AdminLicitatiiPage.xaml",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\AdminLicitatiiPage.xaml",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AdminLicitatiiPage.xaml",
-              "RelativeToolTip": "Client_ADBD\\Views\\AdminLicitatiiPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-09T10:21:20.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StartWindow.g.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\obj\\Debug\\Views\\StartWindow.g.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\obj\\Debug\\Views\\StartWindow.g.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\obj\\Debug\\Views\\StartWindow.g.cs",
-              "RelativeToolTip": "Client_ADBD\\obj\\Debug\\Views\\StartWindow.g.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T22:44:47.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
-              "Title": "AdminViewUserProfilePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AdminViewUserProfilePage.xaml.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\AdminViewUserProfilePage.xaml.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AdminViewUserProfilePage.xaml.cs",
-              "RelativeToolTip": "Client_ADBD\\Views\\AdminViewUserProfilePage.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T19:00:10.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "4cn5axqj..sql",
-              "DocumentMoniker": "C:\\Users\\Daria\\AppData\\Local\\Temp\\4cn5axqj..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Daria\\AppData\\Local\\Temp\\4cn5axqj..sql",
-              "ToolTip": "C:\\Users\\Daria\\AppData\\Local\\Temp\\4cn5axqj..sql",
-              "RelativeToolTip": "..\\..\\..\\..\\Daria\\AppData\\Local\\Temp\\4cn5axqj..sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-01-08T18:43:03.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 73,
-              "Title": "citvhqte..sql",
-              "DocumentMoniker": "C:\\Users\\Daria\\AppData\\Local\\Temp\\citvhqte..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Daria\\AppData\\Local\\Temp\\citvhqte..sql",
-              "ToolTip": "C:\\Users\\Daria\\AppData\\Local\\Temp\\citvhqte..sql",
-              "RelativeToolTip": "..\\..\\..\\..\\Daria\\AppData\\Local\\Temp\\citvhqte..sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-01-08T18:36:29.823Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 75,
-              "Title": "VM_StartWindow.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_StartWindow.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_StartWindow.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_StartWindow.cs",
-              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_StartWindow.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T17:59:42.881Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\App.xaml.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\App.xaml.cs",
-              "RelativeToolTip": "Client_ADBD\\App.xaml.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T18:14:55.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "VM_AuctionPage.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AuctionPage.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_AuctionPage.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AuctionPage.cs",
-              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_AuctionPage.cs",
-              "ViewState": "AgIAAA8BAAAAAAAAAAAkwCQBAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:42:31.349Z",
+              "WhenOpened": "2025-01-08T21:56:15.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AuctionPage.xaml",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AuctionPage.xaml",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\AuctionPage.xaml",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AuctionPage.xaml",
-              "RelativeToolTip": "Client_ADBD\\Views\\AuctionPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-08T16:50:04.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "VM_AdminViewUserProfilePage.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AdminViewUserProfilePage.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_AdminViewUserProfilePage.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AdminViewUserProfilePage.cs",
-              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_AdminViewUserProfilePage.cs",
-              "ViewState": "AgIAAMoAAAAAAAAAAAApwOAAAAAJAAAAAAAAAA==",
+              "Title": "VM_AddPost.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AddPost.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_AddPost.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AddPost.cs",
+              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_AddPost.cs",
+              "ViewState": "AgIAALMBAAAAAAAAAAAkwNIBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T22:21:17.136Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "buydn2f2..sql",
-              "DocumentMoniker": "C:\\Users\\Daria\\AppData\\Local\\Temp\\buydn2f2..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Daria\\AppData\\Local\\Temp\\buydn2f2..sql",
-              "ToolTip": "C:\\Users\\Daria\\AppData\\Local\\Temp\\buydn2f2..sql",
-              "RelativeToolTip": "..\\..\\..\\..\\Daria\\AppData\\Local\\Temp\\buydn2f2..sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-02-03T15:43:19.084Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "VM_AuctionControler.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AuctionControler.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_AuctionControler.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AuctionControler.cs",
-              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_AuctionControler.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA5wEAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:46:02.707Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "AddAuctionPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AddAuctionPage.xaml.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\AddAuctionPage.xaml.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AddAuctionPage.xaml.cs",
-              "RelativeToolTip": "Client_ADBD\\Views\\AddAuctionPage.xaml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAnwBoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T22:43:58.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\MainPage.xaml",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\MainPage.xaml",
-              "RelativeToolTip": "Client_ADBD\\Views\\MainPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-03T22:10:29.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MainAdminPage.xaml",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\MainAdminPage.xaml",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\MainAdminPage.xaml",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\MainAdminPage.xaml",
-              "RelativeToolTip": "Client_ADBD\\Views\\MainAdminPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-03T22:10:26.856Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Utilities.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Helpers\\Utilities.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\Helpers\\Utilities.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Helpers\\Utilities.cs",
-              "RelativeToolTip": "Client_ADBD\\Helpers\\Utilities.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAMwDEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T21:59:27.194Z",
+              "WhenOpened": "2025-02-03T21:11:30.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\MainWindow.xaml",
-              "RelativeToolTip": "Client_ADBD\\Views\\MainWindow.xaml",
+              "Title": "AddAuctionPage.xaml",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AddAuctionPage.xaml",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\AddAuctionPage.xaml",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AddAuctionPage.xaml",
+              "RelativeToolTip": "Client_ADBD\\Views\\AddAuctionPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-08T21:16:28.289Z",
+              "WhenOpened": "2025-02-03T15:52:19.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Post_.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Post_.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\Models\\Post_.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Post_.cs",
-              "RelativeToolTip": "Client_ADBD\\Models\\Post_.cs",
-              "ViewState": "AgIAAMQBAAAAAAAAAAAkwNkBAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T21:34:23.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "VM_PostControl.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_PostControl.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_PostControl.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_PostControl.cs",
-              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_PostControl.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAiwDMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T22:01:57.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AddPostPage.xaml",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AddPostPage.xaml",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\AddPostPage.xaml",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AddPostPage.xaml",
-              "RelativeToolTip": "Client_ADBD\\Views\\AddPostPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-08T21:56:18.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\App.xaml",
-              "RelativeDocumentMoniker": "Client_ADBD\\App.xaml",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\App.xaml",
-              "RelativeToolTip": "Client_ADBD\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-09T10:05:04.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BookControl.xaml",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\BookControl.xaml",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UserControl\\BookControl.xaml",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\BookControl.xaml",
-              "RelativeToolTip": "Client_ADBD\\Views\\UserControl\\BookControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-08T23:09:21.785Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "PostControl.xaml",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\PostControl.xaml",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UserControl\\PostControl.xaml",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\PostControl.xaml",
-              "RelativeToolTip": "Client_ADBD\\Views\\UserControl\\PostControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-03T21:41:35.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "VM_LogInWindow.cs",
               "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_LogInWindow.cs",
               "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_LogInWindow.cs",
@@ -739,20 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "VM_AddPost.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AddPost.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_AddPost.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AddPost.cs",
-              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_AddPost.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAADwv3EAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T21:11:30.442Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 63,
               "Title": "VM_AdminWindow.cs",
               "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AdminWindow.cs",
               "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_AdminWindow.cs",
@@ -764,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 53,
               "Title": "l1rg15ld..sql",
               "DocumentMoniker": "C:\\Users\\laris\\AppData\\Local\\Temp\\l1rg15ld..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\l1rg15ld..sql",
@@ -775,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 66,
               "Title": "Hash.cs",
               "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Helpers\\Hash.cs",
               "RelativeDocumentMoniker": "Client_ADBD\\Helpers\\Hash.cs",
@@ -787,388 +493,177 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "ModifyPostPage.xaml",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\ModifyPostPage.xaml",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\ModifyPostPage.xaml",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\ModifyPostPage.xaml",
-              "RelativeToolTip": "Client_ADBD\\Views\\ModifyPostPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-08T21:56:15.885Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "UsersDetailesPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UsersDetailesPage.xaml.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UsersDetailesPage.xaml.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UsersDetailesPage.xaml.cs",
-              "RelativeToolTip": "Client_ADBD\\Views\\UsersDetailesPage.xaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwBUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T10:07:56.31Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "dbo.Users.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_470P72I_SQLEXPRESS/AuctionApp/True/SqlTable/dbo.Users.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_470P72I_SQLEXPRESS/AuctionApp/True/SqlTable/dbo.Users.sql",
+              "DocumentIndex": 4,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\laris\\AppData\\Local\\Temp\\0xpt3w3e..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\0xpt3w3e..sql",
+              "ToolTip": "SQLQuery1.sql *",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-01-09T08:03:04.445Z"
+              "WhenOpened": "2025-02-03T23:14:08.34Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "PostPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\PostPage.xaml.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\PostPage.xaml.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\PostPage.xaml.cs",
-              "RelativeToolTip": "Client_ADBD\\Views\\PostPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T21:57:15.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 79,
-              "Title": "dbo.Bid.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/._SQLEXPRESS/AuctionApp/True/SqlTable/dbo.Bid.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/._SQLEXPRESS/AuctionApp/True/SqlTable/dbo.Bid.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-01-08T17:10:41.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Jewelry_.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Jewelry_.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\Models\\Jewelry_.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Jewelry_.cs",
-              "RelativeToolTip": "Client_ADBD\\Models\\Jewelry_.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T20:36:38.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "PostPreview.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\PostPreview.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\Models\\PostPreview.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\PostPreview.cs",
-              "RelativeToolTip": "Client_ADBD\\Models\\PostPreview.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAkwHgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:56:13.943Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "SculpturePostControl.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\SculpturePostControl.xaml.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UserControl\\SculpturePostControl.xaml.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\SculpturePostControl.xaml.cs",
-              "RelativeToolTip": "Client_ADBD\\Views\\UserControl\\SculpturePostControl.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T13:08:03.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "WatchControl.xaml",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\WatchControl.xaml",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UserControl\\WatchControl.xaml",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\WatchControl.xaml",
-              "RelativeToolTip": "Client_ADBD\\Views\\UserControl\\WatchControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-08T23:05:56.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "WatchControl.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\WatchControl.xaml.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UserControl\\WatchControl.xaml.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\WatchControl.xaml.cs",
-              "RelativeToolTip": "Client_ADBD\\Views\\UserControl\\WatchControl.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T23:09:02.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "VM_WatchControl.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_WatchControl.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_WatchControl.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_WatchControl.cs",
-              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_WatchControl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T23:05:52.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "emi0djib..sql",
-              "DocumentMoniker": "C:\\Users\\laris\\AppData\\Local\\Temp\\emi0djib..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\emi0djib..sql",
-              "ToolTip": "C:\\Users\\laris\\AppData\\Local\\Temp\\emi0djib..sql",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\emi0djib..sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-01-08T23:10:50.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Watch_.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Watch_.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\Models\\Watch_.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Watch_.cs",
-              "RelativeToolTip": "Client_ADBD\\Models\\Watch_.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAjwIcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T18:02:22.016Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Painting_.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Painting_.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\Models\\Painting_.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Painting_.cs",
-              "RelativeToolTip": "Client_ADBD\\Models\\Painting_.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvxoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T17:56:56.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "BookControl.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\BookControl.xaml.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UserControl\\BookControl.xaml.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\BookControl.xaml.cs",
-              "RelativeToolTip": "Client_ADBD\\Views\\UserControl\\BookControl.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAWwBkAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T23:08:11.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "VM_BookPostControl.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_BookPostControl.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_BookPostControl.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_BookPostControl.cs",
-              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_BookPostControl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T13:08:34.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "BookPostControl.xaml",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\BookPostControl.xaml",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UserControl\\BookPostControl.xaml",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\BookPostControl.xaml",
-              "RelativeToolTip": "Client_ADBD\\Views\\UserControl\\BookPostControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-09T13:08:42.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "BookPostControl.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\BookPostControl.xaml.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UserControl\\BookPostControl.xaml.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\BookPostControl.xaml.cs",
-              "RelativeToolTip": "Client_ADBD\\Views\\UserControl\\BookPostControl.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T13:08:43.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "SculpturePostControl.xaml",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\SculpturePostControl.xaml",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UserControl\\SculpturePostControl.xaml",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\SculpturePostControl.xaml",
-              "RelativeToolTip": "Client_ADBD\\Views\\UserControl\\SculpturePostControl.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-09T13:09:01.047Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IProduct.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\IProduct.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\Models\\IProduct.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\IProduct.cs",
-              "RelativeToolTip": "Client_ADBD\\Models\\IProduct.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T20:36:31.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\MainPage.xaml.cs",
-              "RelativeToolTip": "Client_ADBD\\Views\\MainPage.xaml.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAkwB4AAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T20:32:51.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "AuctionAppEntities.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\AuctionAppEntities.edmx",
-              "RelativeDocumentMoniker": "Client_ADBD\\AuctionAppEntities.edmx",
-              "ToolTip": "C:\\Users\\Daria\\Desktop\\adbd\\aplicatie_licitatie\\Client_ADBD\\AuctionAppEntities.edmx [Diagram1]",
-              "RelativeToolTip": "..\\..\\..\\..\\Daria\\Desktop\\adbd\\aplicatie_licitatie\\Client_ADBD\\AuctionAppEntities.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-02-03T18:06:19.168Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "z3na2qo1..sql",
-              "DocumentMoniker": "C:\\Users\\Daria\\AppData\\Local\\Temp\\z3na2qo1..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Daria\\AppData\\Local\\Temp\\z3na2qo1..sql",
-              "ToolTip": "C:\\Users\\Daria\\AppData\\Local\\Temp\\z3na2qo1..sql",
-              "RelativeToolTip": "..\\..\\..\\..\\Daria\\AppData\\Local\\Temp\\z3na2qo1..sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-02-03T18:05:32.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "VM_AboutUs.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AboutUs.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_AboutUs.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AboutUs.cs",
-              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_AboutUs.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAArwE0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:13:17.825Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 3,
               "Title": "Book_.cs",
               "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Book_.cs",
               "RelativeDocumentMoniker": "Client_ADBD\\Models\\Book_.cs",
               "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Book_.cs",
               "RelativeToolTip": "Client_ADBD\\Models\\Book_.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAADwvygAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:41:16.911Z"
+              "WhenOpened": "2025-02-03T16:41:16.911Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "VM_StatisticsAdmin.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_StatisticsAdmin.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_StatisticsAdmin.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_StatisticsAdmin.cs",
-              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_StatisticsAdmin.cs",
-              "ViewState": "AgIAALMAAAAAAAAAAAAIwNwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T10:19:01.748Z"
+              "DocumentIndex": 9,
+              "Title": "AddPostPage.xaml",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AddPostPage.xaml",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\AddPostPage.xaml",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AddPostPage.xaml",
+              "RelativeToolTip": "Client_ADBD\\Views\\AddPostPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-08T21:56:18.215Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
-              "Title": "ModifyPostPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\ModifyPostPage.xaml.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\ModifyPostPage.xaml.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\ModifyPostPage.xaml.cs",
-              "RelativeToolTip": "Client_ADBD\\Views\\ModifyPostPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "VM_ModifyPostPage.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_ModifyPostPage.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_ModifyPostPage.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_ModifyPostPage.cs",
+              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_ModifyPostPage.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAIwNAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T22:12:49.305Z"
+              "WhenOpened": "2025-02-03T23:09:02.791Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 10,
+              "Title": "PostPage.xaml",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\PostPage.xaml",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\PostPage.xaml",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\PostPage.xaml",
+              "RelativeToolTip": "Client_ADBD\\Views\\PostPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-08T21:55:20.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "AddPostPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AddPostPage.xaml.cs",
               "RelativeDocumentMoniker": "Client_ADBD\\Views\\AddPostPage.xaml.cs",
               "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AddPostPage.xaml.cs",
               "RelativeToolTip": "Client_ADBD\\Views\\AddPostPage.xaml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T22:10:52.54Z"
+              "WhenOpened": "2025-01-09T22:10:52.54Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "ModifyAuctionPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\ModifyAuctionPage.xaml.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\ModifyAuctionPage.xaml.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\ModifyAuctionPage.xaml.cs",
-              "RelativeToolTip": "Client_ADBD\\Views\\ModifyAuctionPage.xaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswB0AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "VM_ModifyAuctionPage.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_ModifyAuctionPage.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_ModifyAuctionPage.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_ModifyAuctionPage.cs",
+              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_ModifyAuctionPage.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAADgv6kAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T22:10:16.046Z"
+              "WhenOpened": "2025-02-03T23:03:02.383Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "fpr5yypu..sql",
-              "DocumentMoniker": "C:\\Users\\laris\\AppData\\Local\\Temp\\fpr5yypu..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\fpr5yypu..sql",
-              "ToolTip": "C:\\Users\\laris\\AppData\\Local\\Temp\\fpr5yypu..sql",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\fpr5yypu..sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-01-09T11:46:18.54Z"
+              "DocumentIndex": 13,
+              "Title": "ModifyAuctionPage.xaml",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\ModifyAuctionPage.xaml",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\ModifyAuctionPage.xaml",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\ModifyAuctionPage.xaml",
+              "RelativeToolTip": "Client_ADBD\\Views\\ModifyAuctionPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-03T23:03:04.963Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "VM_SculptureControl.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_SculptureControl.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_SculptureControl.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_SculptureControl.cs",
-              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_SculptureControl.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "VM_AuctionPage.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AuctionPage.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_AuctionPage.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AuctionPage.cs",
+              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_AuctionPage.cs",
+              "ViewState": "AgIAAGkCAAAAAAAAAAAEwHsCAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T12:59:39.291Z"
+              "WhenOpened": "2025-01-08T16:42:31.349Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "AuctionPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AuctionPage.xaml.cs",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\AuctionPage.xaml.cs",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AuctionPage.xaml.cs",
-              "RelativeToolTip": "Client_ADBD\\Views\\AuctionPage.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCAAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "MainAdminPage.xaml",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\MainAdminPage.xaml",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\MainAdminPage.xaml",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\MainAdminPage.xaml",
+              "RelativeToolTip": "Client_ADBD\\Views\\MainAdminPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-03T22:10:26.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Helpers\\Utilities.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\Helpers\\Utilities.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Helpers\\Utilities.cs",
+              "RelativeToolTip": "Client_ADBD\\Helpers\\Utilities.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAMwDEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T17:53:07.018Z"
+              "WhenOpened": "2025-02-03T21:59:27.194Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "oigrkjpc..sql",
-              "DocumentMoniker": "C:\\Users\\laris\\AppData\\Local\\Temp\\oigrkjpc..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\oigrkjpc..sql",
-              "ToolTip": "C:\\Users\\laris\\AppData\\Local\\Temp\\oigrkjpc..sql",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\oigrkjpc..sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-01-09T10:57:39.225Z"
+              "DocumentIndex": 25,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Client_ADBD\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-08T21:16:28.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 27,
+              "Title": "Post_.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Post_.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\Models\\Post_.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Post_.cs",
+              "RelativeToolTip": "Client_ADBD\\Models\\Post_.cs",
+              "ViewState": "AgIAAMQBAAAAAAAAAAAkwNkBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:34:23.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "VM_PostControl.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_PostControl.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_PostControl.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_PostControl.cs",
+              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_PostControl.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:01:57.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
               "Title": "VM_Statistics.cs",
               "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_Statistics.cs",
               "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_Statistics.cs",
@@ -1180,7 +675,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 48,
               "Title": "VM_StatisticsControler.cs",
               "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_StatisticsControler.cs",
               "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_StatisticsControler.cs",
@@ -1192,7 +687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 50,
               "Title": "VM_MainAdminPage.cs",
               "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_MainAdminPage.cs",
               "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_MainAdminPage.cs",
@@ -1204,7 +699,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 51,
               "Title": "0uu0dhfd..sql",
               "DocumentMoniker": "C:\\Users\\laris\\AppData\\Local\\Temp\\0uu0dhfd..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\0uu0dhfd..sql",
@@ -1215,7 +710,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 52,
               "Title": "VM_MainPage.cs",
               "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_MainPage.cs",
               "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_MainPage.cs",
@@ -1227,18 +722,594 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "PostPage.xaml",
-              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\PostPage.xaml",
-              "RelativeDocumentMoniker": "Client_ADBD\\Views\\PostPage.xaml",
-              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\PostPage.xaml",
-              "RelativeToolTip": "Client_ADBD\\Views\\PostPage.xaml",
+              "DocumentIndex": 19,
+              "Title": "UsersDetailesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UsersDetailesPage.xaml",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UsersDetailesPage.xaml",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UsersDetailesPage.xaml",
+              "RelativeToolTip": "Client_ADBD\\Views\\UsersDetailesPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-08T21:55:20.489Z"
+              "WhenOpened": "2025-02-03T22:11:06.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 20,
+              "Title": "Auction_.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Auction_.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\Models\\Auction_.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Auction_.cs",
+              "RelativeToolTip": "Client_ADBD\\Models\\Auction_.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAIAwwM8AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:12:49.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StatisticsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\StatisticsPage.xaml",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\StatisticsPage.xaml",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\StatisticsPage.xaml",
+              "RelativeToolTip": "Client_ADBD\\Views\\StatisticsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-03T22:11:03.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StatisticsAdminPage.xaml",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\StatisticsAdminPage.xaml",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\StatisticsAdminPage.xaml",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\StatisticsAdminPage.xaml",
+              "RelativeToolTip": "Client_ADBD\\Views\\StatisticsAdminPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-03T22:11:01.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "VM_About.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_About.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_About.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_About.cs",
+              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_About.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:13:08.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminLicitatiiPage.xaml",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AdminLicitatiiPage.xaml",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\AdminLicitatiiPage.xaml",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AdminLicitatiiPage.xaml",
+              "RelativeToolTip": "Client_ADBD\\Views\\AdminLicitatiiPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-09T10:21:20.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "StartWindow.g.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\obj\\Debug\\Views\\StartWindow.g.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\obj\\Debug\\Views\\StartWindow.g.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\obj\\Debug\\Views\\StartWindow.g.cs",
+              "RelativeToolTip": "Client_ADBD\\obj\\Debug\\Views\\StartWindow.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:44:47.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "AdminViewUserProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AdminViewUserProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\AdminViewUserProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AdminViewUserProfilePage.xaml.cs",
+              "RelativeToolTip": "Client_ADBD\\Views\\AdminViewUserProfilePage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:00:10.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "4cn5axqj..sql",
+              "DocumentMoniker": "C:\\Users\\Daria\\AppData\\Local\\Temp\\4cn5axqj..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Daria\\AppData\\Local\\Temp\\4cn5axqj..sql",
+              "ToolTip": "C:\\Users\\Daria\\AppData\\Local\\Temp\\4cn5axqj..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\Daria\\AppData\\Local\\Temp\\4cn5axqj..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-08T18:43:03.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "citvhqte..sql",
+              "DocumentMoniker": "C:\\Users\\Daria\\AppData\\Local\\Temp\\citvhqte..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Daria\\AppData\\Local\\Temp\\citvhqte..sql",
+              "ToolTip": "C:\\Users\\Daria\\AppData\\Local\\Temp\\citvhqte..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\Daria\\AppData\\Local\\Temp\\citvhqte..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-08T18:36:29.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "VM_StartWindow.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_StartWindow.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_StartWindow.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_StartWindow.cs",
+              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_StartWindow.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:59:42.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\App.xaml.cs",
+              "RelativeToolTip": "Client_ADBD\\App.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T18:14:55.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuctionPage.xaml",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AuctionPage.xaml",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\AuctionPage.xaml",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AuctionPage.xaml",
+              "RelativeToolTip": "Client_ADBD\\Views\\AuctionPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-08T16:50:04.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VM_AdminViewUserProfilePage.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AdminViewUserProfilePage.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_AdminViewUserProfilePage.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AdminViewUserProfilePage.cs",
+              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_AdminViewUserProfilePage.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAApwOAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T22:21:17.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "buydn2f2..sql",
+              "DocumentMoniker": "C:\\Users\\Daria\\AppData\\Local\\Temp\\buydn2f2..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Daria\\AppData\\Local\\Temp\\buydn2f2..sql",
+              "ToolTip": "C:\\Users\\Daria\\AppData\\Local\\Temp\\buydn2f2..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\Daria\\AppData\\Local\\Temp\\buydn2f2..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-03T15:43:19.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "VM_AuctionControler.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AuctionControler.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_AuctionControler.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AuctionControler.cs",
+              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_AuctionControler.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA5wEAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:46:02.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AddAuctionPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AddAuctionPage.xaml.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\AddAuctionPage.xaml.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AddAuctionPage.xaml.cs",
+              "RelativeToolTip": "Client_ADBD\\Views\\AddAuctionPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAnwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:43:58.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\MainPage.xaml",
+              "RelativeToolTip": "Client_ADBD\\Views\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-03T22:10:29.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\App.xaml",
+              "RelativeDocumentMoniker": "Client_ADBD\\App.xaml",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\App.xaml",
+              "RelativeToolTip": "Client_ADBD\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-09T10:05:04.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BookControl.xaml",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\BookControl.xaml",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UserControl\\BookControl.xaml",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\BookControl.xaml",
+              "RelativeToolTip": "Client_ADBD\\Views\\UserControl\\BookControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-08T23:09:21.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PostControl.xaml",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\PostControl.xaml",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UserControl\\PostControl.xaml",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\PostControl.xaml",
+              "RelativeToolTip": "Client_ADBD\\Views\\UserControl\\PostControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-03T21:41:35.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UsersDetailesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UsersDetailesPage.xaml.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UsersDetailesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UsersDetailesPage.xaml.cs",
+              "RelativeToolTip": "Client_ADBD\\Views\\UsersDetailesPage.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:07:56.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "dbo.Users.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_470P72I_SQLEXPRESS/AuctionApp/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_470P72I_SQLEXPRESS/AuctionApp/True/SqlTable/dbo.Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-09T08:03:04.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "PostPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\PostPage.xaml.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\PostPage.xaml.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\PostPage.xaml.cs",
+              "RelativeToolTip": "Client_ADBD\\Views\\PostPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:57:15.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "dbo.Bid.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/._SQLEXPRESS/AuctionApp/True/SqlTable/dbo.Bid.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/._SQLEXPRESS/AuctionApp/True/SqlTable/dbo.Bid.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-08T17:10:41.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Jewelry_.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Jewelry_.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\Models\\Jewelry_.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Jewelry_.cs",
+              "RelativeToolTip": "Client_ADBD\\Models\\Jewelry_.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:36:38.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PostPreview.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\PostPreview.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\Models\\PostPreview.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\PostPreview.cs",
+              "RelativeToolTip": "Client_ADBD\\Models\\PostPreview.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:56:13.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SculpturePostControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\SculpturePostControl.xaml.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UserControl\\SculpturePostControl.xaml.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\SculpturePostControl.xaml.cs",
+              "RelativeToolTip": "Client_ADBD\\Views\\UserControl\\SculpturePostControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:08:03.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "WatchControl.xaml",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\WatchControl.xaml",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UserControl\\WatchControl.xaml",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\WatchControl.xaml",
+              "RelativeToolTip": "Client_ADBD\\Views\\UserControl\\WatchControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-08T23:05:56.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "WatchControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\WatchControl.xaml.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UserControl\\WatchControl.xaml.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\WatchControl.xaml.cs",
+              "RelativeToolTip": "Client_ADBD\\Views\\UserControl\\WatchControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:09:02.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "VM_WatchControl.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_WatchControl.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_WatchControl.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_WatchControl.cs",
+              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_WatchControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:05:52.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "emi0djib..sql",
+              "DocumentMoniker": "C:\\Users\\laris\\AppData\\Local\\Temp\\emi0djib..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\emi0djib..sql",
+              "ToolTip": "C:\\Users\\laris\\AppData\\Local\\Temp\\emi0djib..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\emi0djib..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-08T23:10:50.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Watch_.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Watch_.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\Models\\Watch_.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Watch_.cs",
+              "RelativeToolTip": "Client_ADBD\\Models\\Watch_.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAjwIcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:02:22.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Painting_.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Painting_.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\Models\\Painting_.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\Painting_.cs",
+              "RelativeToolTip": "Client_ADBD\\Models\\Painting_.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:56:56.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "BookControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\BookControl.xaml.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UserControl\\BookControl.xaml.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\BookControl.xaml.cs",
+              "RelativeToolTip": "Client_ADBD\\Views\\UserControl\\BookControl.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAWwBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T23:08:11.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "VM_BookPostControl.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_BookPostControl.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_BookPostControl.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_BookPostControl.cs",
+              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_BookPostControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:08:34.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BookPostControl.xaml",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\BookPostControl.xaml",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UserControl\\BookPostControl.xaml",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\BookPostControl.xaml",
+              "RelativeToolTip": "Client_ADBD\\Views\\UserControl\\BookPostControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-09T13:08:42.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "BookPostControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\BookPostControl.xaml.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UserControl\\BookPostControl.xaml.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\BookPostControl.xaml.cs",
+              "RelativeToolTip": "Client_ADBD\\Views\\UserControl\\BookPostControl.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T13:08:43.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "SculpturePostControl.xaml",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\SculpturePostControl.xaml",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\UserControl\\SculpturePostControl.xaml",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\SculpturePostControl.xaml",
+              "RelativeToolTip": "Client_ADBD\\Views\\UserControl\\SculpturePostControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-09T13:09:01.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\IProduct.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\Models\\IProduct.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Models\\IProduct.cs",
+              "RelativeToolTip": "Client_ADBD\\Models\\IProduct.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:36:31.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "Client_ADBD\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwB4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:32:51.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AuctionAppEntities.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\AuctionAppEntities.edmx",
+              "RelativeDocumentMoniker": "Client_ADBD\\AuctionAppEntities.edmx",
+              "ToolTip": "C:\\Users\\Daria\\Desktop\\adbd\\aplicatie_licitatie\\Client_ADBD\\AuctionAppEntities.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\..\\..\\Daria\\Desktop\\adbd\\aplicatie_licitatie\\Client_ADBD\\AuctionAppEntities.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-02-03T18:06:19.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "z3na2qo1..sql",
+              "DocumentMoniker": "C:\\Users\\Daria\\AppData\\Local\\Temp\\z3na2qo1..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Daria\\AppData\\Local\\Temp\\z3na2qo1..sql",
+              "ToolTip": "C:\\Users\\Daria\\AppData\\Local\\Temp\\z3na2qo1..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\Daria\\AppData\\Local\\Temp\\z3na2qo1..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-03T18:05:32.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "VM_AboutUs.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AboutUs.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_AboutUs.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_AboutUs.cs",
+              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_AboutUs.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAArwE0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:13:17.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "VM_StatisticsAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_StatisticsAdmin.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_StatisticsAdmin.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_StatisticsAdmin.cs",
+              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_StatisticsAdmin.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAIwNwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:19:01.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ModifyPostPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\ModifyPostPage.xaml.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\ModifyPostPage.xaml.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\ModifyPostPage.xaml.cs",
+              "RelativeToolTip": "Client_ADBD\\Views\\ModifyPostPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:12:49.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ModifyAuctionPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\ModifyAuctionPage.xaml.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\ModifyAuctionPage.xaml.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\ModifyAuctionPage.xaml.cs",
+              "RelativeToolTip": "Client_ADBD\\Views\\ModifyAuctionPage.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:10:16.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "fpr5yypu..sql",
+              "DocumentMoniker": "C:\\Users\\laris\\AppData\\Local\\Temp\\fpr5yypu..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\fpr5yypu..sql",
+              "ToolTip": "C:\\Users\\laris\\AppData\\Local\\Temp\\fpr5yypu..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\fpr5yypu..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-09T11:46:18.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "VM_SculptureControl.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_SculptureControl.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_SculptureControl.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_SculptureControl.cs",
+              "RelativeToolTip": "Client_ADBD\\ViewModels\\VM_SculptureControl.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T12:59:39.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AuctionPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AuctionPage.xaml.cs",
+              "RelativeDocumentMoniker": "Client_ADBD\\Views\\AuctionPage.xaml.cs",
+              "ToolTip": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\AuctionPage.xaml.cs",
+              "RelativeToolTip": "Client_ADBD\\Views\\AuctionPage.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:53:07.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "oigrkjpc..sql",
+              "DocumentMoniker": "C:\\Users\\laris\\AppData\\Local\\Temp\\oigrkjpc..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\oigrkjpc..sql",
+              "ToolTip": "C:\\Users\\laris\\AppData\\Local\\Temp\\oigrkjpc..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\oigrkjpc..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-09T10:57:39.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
               "Title": "VM_MainWindow.cs",
               "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\ViewModels\\VM_MainWindow.cs",
               "RelativeDocumentMoniker": "Client_ADBD\\ViewModels\\VM_MainWindow.cs",
@@ -1250,7 +1321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 74,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Client_ADBD\\Views\\MainWindow.xaml.cs",
@@ -1262,7 +1333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 80,
               "Title": "h1tw34zh..sql",
               "DocumentMoniker": "C:\\Users\\Daria\\AppData\\Local\\Temp\\h1tw34zh..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Daria\\AppData\\Local\\Temp\\h1tw34zh..sql",
@@ -1273,7 +1344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 81,
               "Title": "StartWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\StartWindow.xaml.cs",
               "RelativeDocumentMoniker": "Client_ADBD\\Views\\StartWindow.xaml.cs",
@@ -1285,7 +1356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 82,
               "Title": "StatisticsControler.xaml",
               "DocumentMoniker": "C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\Views\\UserControl\\StatisticsControler.xaml",
               "RelativeDocumentMoniker": "Client_ADBD\\Views\\UserControl\\StatisticsControler.xaml",
@@ -1296,7 +1367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 84,
               "Title": "v0tuefbi..sql",
               "DocumentMoniker": "C:\\Users\\Daria\\AppData\\Local\\Temp\\v0tuefbi..sql",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Daria\\AppData\\Local\\Temp\\v0tuefbi..sql",

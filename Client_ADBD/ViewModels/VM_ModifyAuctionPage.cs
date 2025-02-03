@@ -9,6 +9,7 @@ using System.Windows.Input;
 using Client_ADBD.Models;
 using Client_ADBD.Views;
 using CommunityToolkit.Mvvm.Input;
+using Microsoft.Win32;
 
 namespace Client_ADBD.ViewModels
 {
@@ -30,6 +31,9 @@ namespace Client_ADBD.ViewModels
                 ClosePageCommand = new RelayCommand(ClosePage);
             }
             SaveChangesCommand = new RelayCommand(SaveChanges);
+
+            SelectImageCommand=new RelayCommand(SelectImage);
+
             AuctionName =a.name;
             StartDate = a.startTime;
             StartHour = a.startTime.ToString("HH");
@@ -44,6 +48,8 @@ namespace Client_ADBD.ViewModels
             Location = a.location;
 
         }
+
+        public ICommand SelectImageCommand { get; set; }
 
         private bool isValid = true;
         bool isModified = false;
@@ -83,6 +89,21 @@ namespace Client_ADBD.ViewModels
                     StartDateError = Helpers.validation.IsValidStartDate(_startDate, ref isValid);
                     OnPropertyChange(nameof(StartDate));
                 }
+            }
+        }
+
+        private void SelectImage()
+        {
+            OpenFileDialog openFileDialog = new OpenFileDialog
+            {
+                Title = "Selectează o imagine",
+                Filter = "Imagini (*.jpg;*.jpeg;*.png)|*.jpg;*.jpeg;*.png|Toate fișierele (*.*)|*.*",
+                Multiselect = false
+            };
+
+            if (openFileDialog.ShowDialog() == true)
+            {
+                ImagePath = openFileDialog.FileName;
             }
         }
         public string StartHour

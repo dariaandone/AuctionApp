@@ -66,10 +66,24 @@
                     <StackPanel Orientation="Horizontal">
                         <StackPanel Orientation="Vertical" Width="479">
                             <TextBlock Text="Căi de imagini :" FontSize="16" FontWeight="Bold" Foreground="#333" Margin="0,0,0,10"/>
-                            <TextBox x:Name="ImagePathTextBox1" Width="440" Height="35" Margin="0,0,0,7" FontSize="14" VerticalContentAlignment="Center" BorderBrush="#ccc" BorderThickness="1" HorizontalAlignment="Left" Text="{Binding ImagePaths[0],UpdateSourceTrigger=PropertyChanged}"/>
+                            <StackPanel Orientation="Horizontal">
+                                <Button Content="Alege imagine" Width="100" Height="35" Margin="0,0,20,0" HorizontalAlignment="Left" Command="{Binding SelectImageCommand1}" Background = "#6DBE8C " BorderThickness="0" FontWeight="Bold" Foreground="White"/>
+                                <TextBox x:Name="ImagePathTextBox1" Width="350" Height="35" Margin="0,0,0,7" FontSize="14" VerticalContentAlignment="Center" BorderBrush="#ccc" BorderThickness="1" HorizontalAlignment="Left" Text="{Binding ImagePaths[0],UpdateSourceTrigger=PropertyChanged}"/>
+                            </StackPanel>
+
+                            <StackPanel Orientation="Horizontal">
+                                <Button Content="Alege imagine" Width="100" Height="35" Margin="0,0,20,0" HorizontalAlignment="Left" Command="{Binding SelectImageCommand2}" Background = "#6DBE8C" BorderThickness="0" FontWeight="Bold" Foreground="White"/>
+                                <TextBox x:Name="ImagePathTextBox2" Width="350" Height="35" Margin="0,0,0,7" FontSize="14" VerticalContentAlignment="Center" BorderBrush="#ccc" BorderThickness="1" HorizontalAlignment="Left" Text="{Binding ImagePaths[1],UpdateSourceTrigger=PropertyChanged}"/>
+                            </StackPanel>
+
+                            <StackPanel Orientation="Horizontal">
+                                <Button Content="Alege imagine" Width="100" Height="35" Margin="0,0,20,0" HorizontalAlignment="Left" Command="{Binding SelectImageCommand3}" Background = "#6DBE8C" BorderThickness="0" FontWeight="Bold" Foreground="White"/>
+                                <TextBox x:Name="ImagePathTextBox3" Width="350" Height="35" Margin="0,0,0,0" FontSize="14" VerticalContentAlignment="Center" BorderBrush="#ccc" BorderThickness="1" HorizontalAlignment="Left" Text="{Binding ImagePaths[2],UpdateSourceTrigger=PropertyChanged}"/>
+                            </StackPanel>
+                            <!--<TextBox x:Name="ImagePathTextBox1" Width="440" Height="35" Margin="0,0,0,7" FontSize="14" VerticalContentAlignment="Center" BorderBrush="#ccc" BorderThickness="1" HorizontalAlignment="Left" Text="{Binding ImagePaths[0],UpdateSourceTrigger=PropertyChanged}"/>
                             <TextBox x:Name="ImagePathTextBox2" Width="440" Height="35" Margin="0,0,0,7" FontSize="14" VerticalContentAlignment="Center" BorderBrush="#ccc" BorderThickness="1" HorizontalAlignment="Left" Text="{Binding ImagePaths[1],UpdateSourceTrigger=PropertyChanged}"/>
                             <TextBox x:Name="ImagePathTextBox3" Width="440" Height="35" Margin="0,0,0,0" FontSize="14" VerticalContentAlignment="Center" BorderBrush="#ccc" BorderThickness="1" HorizontalAlignment="Left" Text="{Binding ImagePaths[2],UpdateSourceTrigger=PropertyChanged}"/>
-                            <TextBlock Text="{Binding ImagePathError, UpdateSourceTrigger=PropertyChanged}" Foreground="Red" FontSize="12" Margin="0,0,0,0" />
+                            <TextBlock Text="{Binding ImagePathError, UpdateSourceTrigger=PropertyChanged}" Foreground="Red" FontSize="12" Margin="0,0,0,0" />-->
                         </StackPanel>
 
                         <StackPanel Orientation="Vertical"  Margin="200,0,0,0">

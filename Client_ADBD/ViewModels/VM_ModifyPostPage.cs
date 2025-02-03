@@ -10,6 +10,7 @@ using System.Windows.Input;
 using Client_ADBD.Models;
 using System.Runtime.InteropServices.ComTypes;
 using System.Collections.ObjectModel;
+using Microsoft.Win32;
 
 namespace Client_ADBD.ViewModels
 {
@@ -30,6 +31,10 @@ namespace Client_ADBD.ViewModels
         private DateTime _invDate { get; set; } = DateTime.Now;
 
         bool isModified=false;
+
+        public ICommand SelectImageCommand1 { get; set; }
+        public ICommand SelectImageCommand2 { get; set; }
+        public ICommand SelectImageCommand3 { get; set; }
 
         public string ProductName
         {
@@ -148,6 +153,58 @@ namespace Client_ADBD.ViewModels
             }
 
             SaveChangesCommand = new RelayCommand(SaveChanges);
+
+            SelectImageCommand1 = new RelayCommand(SelectImage1);
+            SelectImageCommand2 = new RelayCommand(SelectImage2);
+            SelectImageCommand3 = new RelayCommand(SelectImage3);
+        }
+
+        private void SelectImage1()
+        {
+            OpenFileDialog openFileDialog = new OpenFileDialog
+            {
+                Title = "Selectează o imagine",
+                Filter = "Imagini (*.jpg;*.jpeg;*.png)|*.jpg;*.jpeg;*.png|Toate fișierele (*.*)|*.*",
+                Multiselect = false
+            };
+
+            if (openFileDialog.ShowDialog() == true)
+            {
+                ImagePaths[0] = openFileDialog.FileName;
+                OnPropertyChange(nameof(ImagePaths));
+            }
+        }
+
+        private void SelectImage2()
+        {
+            OpenFileDialog openFileDialog = new OpenFileDialog
+            {
+                Title = "Selectează o imagine",
+                Filter = "Imagini (*.jpg;*.jpeg;*.png)|*.jpg;*.jpeg;*.png|Toate fișierele (*.*)|*.*",
+                Multiselect = false
+            };
+
+            if (openFileDialog.ShowDialog() == true)
+            {
+                ImagePaths[1] = openFileDialog.FileName;
+                OnPropertyChange(nameof(ImagePaths));
+            }
+        }
+
+        private void SelectImage3()
+        {
+            OpenFileDialog openFileDialog = new OpenFileDialog
+            {
+                Title = "Selectează o imagine",
+                Filter = "Imagini (*.jpg;*.jpeg;*.png)|*.jpg;*.jpeg;*.png|Toate fișierele (*.*)|*.*",
+                Multiselect = false
+            };
+
+            if (openFileDialog.ShowDialog() == true)
+            {
+                ImagePaths[2] = openFileDialog.FileName;
+                OnPropertyChange(nameof(ImagePaths));
+            }
         }
 
         private string _productNameError;
