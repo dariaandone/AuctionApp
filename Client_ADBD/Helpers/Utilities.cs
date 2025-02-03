@@ -40,7 +40,7 @@ namespace Client_ADBD.Helpers
                 }
             }
 
-            return new BitmapImage(new Uri("C:\\Users\\Daria\\Pictures\\Camera Roll\\WIN_20250122_16_47_12_Pro.jpg"));
+            return new BitmapImage(new Uri("C:\\Users\\laris\\Desktop\\EntityBD\\AuctionApp\\Client_ADBD\\photos\\no-image_image.jpg"));
         }
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {

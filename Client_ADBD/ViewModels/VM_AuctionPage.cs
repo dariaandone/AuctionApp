@@ -289,6 +289,10 @@ namespace Client_ADBD.ViewModels
             _usernameOwner = auction.usernameOwner;
             OwnerAdminVisibility=IsCurrentUserOwner(_usernameOwner);
 
+            if (Admin == true)
+                OwnerAdminVisibility=Visibility.Visible;
+
+
             SetPostsPreview((new PostPreview()).GetPostPreview(AuctionNumber));
 
             if(fromResults==false)

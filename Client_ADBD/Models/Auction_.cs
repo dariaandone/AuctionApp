@@ -208,11 +208,7 @@ namespace Client_ADBD.Models
             if (!string.Equals(auctionStatus, "default", StringComparison.OrdinalIgnoreCase))
             {
                 query = query.Where(auction =>
-                    auctionStatus.Equals("Licitații în curs", StringComparison.OrdinalIgnoreCase)
-                        ? auction.start_time <= DateTime.Now && auction.end_time > DateTime.Now
-                        : auctionStatus.Equals("Licitații viitoare", StringComparison.OrdinalIgnoreCase)
-                            ? auction.start_time > DateTime.Now
-                            : auctionStatus.Equals("Closed", StringComparison.OrdinalIgnoreCase)
+                   auctionStatus.Equals("Closed", StringComparison.OrdinalIgnoreCase)
                                 ? auction.end_time <= DateTime.Now
                                 : true);
             }

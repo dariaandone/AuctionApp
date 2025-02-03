@@ -8,8 +8,12 @@
         Title="StartWindow" Height="450" Width="800"
         WindowStartupLocation="CenterScreen"
         WindowStyle="None" AllowsTransparency="True">
-    <Grid x:Name="st_gridWindow" Background="#FF337D67">
+    <Grid x:Name="st_gridWindow">
+        <Grid.Background>
+            <ImageBrush ImageSource="C:\Users\laris\Desktop\EntityBD\AuctionApp\Client_ADBD\photos\start.jpeg" Stretch="UniformToFill"/>
+        </Grid.Background>
+
         <Label x:Name="st_lbWelcom" Content="WELCOME" HorizontalAlignment="Center" Margin="0,143,0,0" VerticalAlignment="Top" Height="50" Width="162" FontWeight="Bold" FontSize="30"/>
-        <Button Content="Get started" HorizontalAlignment="Center" Margin="0,225,0,0" VerticalAlignment="Top" Height="42" Width="112"  Command="{Binding NavigateCommand}"/>
+        <Button Content="Get started" HorizontalAlignment="Center" Margin="0,225,0,0" VerticalAlignment="Top" Height="42" Width="112" Command="{Binding NavigateCommand}"/>
     </Grid>
 </Window>
