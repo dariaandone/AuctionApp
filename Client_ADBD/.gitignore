@@ -1,0 +1,23 @@
+# VS / .NET specific
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.cache
+*.dbmdl
+
+# Imagini
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Rider
+.idea/
+
+# Generate
+*.tt
+*.ttinclude
