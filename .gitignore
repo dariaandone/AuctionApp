@@ -1,0 +1,52 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Auto-generated files
+Generated_Code/
+
+# Package folders
+packages/
+*.nupkg
+*.snupkg
+
+# Visual Studio files
+.vs/
+.vscode/
+TestResults/
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.cache
+*.dbmdl
+
+# ASP.NET Files
+*.publishxml
+*.pubxml
+*.publishsettings
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Backup & Logs
+*.log
+*.bak
+
+# Database files
+*.mdf
+*.ldf
+
+# NuGet
+project.lock.json
+project.assets.json
+
+# Other
+Client_ADBD/Views/photos/no-image_image.jpg
